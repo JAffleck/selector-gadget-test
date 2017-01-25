@@ -1,3 +1,3 @@
 # selector-gadget-test
 
-Video instructions: https://github.com/pgbovine/selector-gadget-test
+Video instructions: https://www.youtube.com/watch?v=3d4IU9cd9BU
